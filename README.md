@@ -25,7 +25,7 @@ This version includes a **professionally routed PCB** that simplifies connection
 
 ## Hardware List
 
-| Component              | Description                        |
+| Component              | Description                         |
 |------------------------|-------------------------------------|
 | Arduino Nano           | Microcontroller board               |
 | HC-05 / HC-06          | Bluetooth module                    |
@@ -54,7 +54,14 @@ This version includes a **professionally routed PCB** that simplifies connection
      - `L` – Left  
      - `R` – Right  
      - `S` – Stop
-
+     - `W` – Front Light on
+     - `w` – Front Light off
+     - `U` – Back Light on
+     - `u` – Back Light off
+     - `X` – Extra Light on
+     - `x` – Extra Light off
+     - `V` – Horn on
+     - `v` – Horn off
 
 ## PCB Design
 
