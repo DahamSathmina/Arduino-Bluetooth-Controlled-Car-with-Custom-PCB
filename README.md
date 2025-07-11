@@ -2,19 +2,19 @@
 
 This repository contains a fully customized Bluetooth-controlled car project designed by **Daham Sathmin (OS Daham)**. It integrates a clean and compact **custom PCB layout**, removing the complexity of jumper wires while enhancing performance and assembly.
 
-🔎## Project Overview
+## 🔎Project Overview
 
 Built on the Arduino platform, this robotic car is controlled wirelessly via a Bluetooth module (HC-05/HC-06). The code interprets character commands from a mobile app and drives motors through an L298N motor driver.
 This version includes a **professionally routed PCB** that simplifies connections and improves long-term reliability — ideal for students, DIYers, and robotics enthusiasts.
 
 
-📋## Repository Contents
+## 📋Repository Contents
 
 - `Arduino_BT_Controlling_Car_PCB.ino` – Complete Arduino sketch for car control  
 - `Gerber_Arduino-Bluetooth-Controlling-Car-PCB.zip` – Custom PCB Gerber files designed by OS Daham
 
 
-🔑## Key Features
+## 🔑Key Features
 
 - Bluetooth-based control via smartphone  
 - Compact, easy-to-assemble PCB design  
@@ -23,7 +23,7 @@ This version includes a **professionally routed PCB** that simplifies connection
 - Clean hardware layout ideal for robotics kits and classroom use
 
 
-🛠## Hardware List
+## 🛠Hardware List
 
 | Component              | Description                         |
 |------------------------|-------------------------------------|
@@ -35,7 +35,7 @@ This version includes a **professionally routed PCB** that simplifies connection
 | Power Source           | 18650 cells / 9V adapter            |
 
 
-📦## Getting Started
+## 📦Getting Started
 
 1. **Upload the Sketch**  
    - Open `Arduino_BT_Controlling_Car_PCB.ino` in Arduino IDE  
@@ -63,14 +63,14 @@ This version includes a **professionally routed PCB** that simplifies connection
      - `V` – Horn on
      - `v` – Horn off
 
-⌛️## PCB Design
+## ⌛️PCB Design
 
 This version includes a **custom-designed PCB layout** created specifically for this Bluetooth-controlled car project. You can use the Gerber files to fabricate your own professional board.
 
-📁**Gerber Download:**  
+**📁Gerber Download:**  
 [`Gerber_Arduino-Bluetooth-Controlling-Car-PCB.zip`](https://drive.google.com/file/d/1F9R93RxTxxKxCy0Tvj5duxJRR05ZcWrq/view?usp=sharing) 
 
-📌**How to Use:**
+**📌How to Use:**
 - Upload the `.zip` file to a PCB manufacturer like:
   - [JLCPCB](https://jlcpcb.com)
   - [PCBWay](https://pcbway.com)
@@ -79,7 +79,7 @@ This version includes a **custom-designed PCB layout** created specifically for 
 
 
 
-💡## Advanced Customization Ideas
+## 💡Advanced Customization Ideas
 
 - Add ultrasonic sensors for obstacle avoidance  
 - Use PWM for motor speed control  
