@@ -68,7 +68,7 @@ This version includes a **professionally routed PCB** that simplifies connection
 This version includes a **custom-designed PCB layout** created specifically for this Bluetooth-controlled car project. You can use the Gerber files to fabricate your own professional board.
 
 **Gerber Download:**  
-[`Gerber_Arduino-Bluetooth-Controlling-Car-PCB.zip`](Gerber_Arduino-Bluetooth-Controlling-Car-PCB.zip)
+[`Gerber_Arduino-Bluetooth-Controlling-Car-PCB.zip`](https://drive.google.com/file/d/1F9R93RxTxxKxCy0Tvj5duxJRR05ZcWrq/view?usp=sharing) 
 
 **How to Use:**
 - Upload the `.zip` file to a PCB manufacturer like:
