@@ -71,7 +71,6 @@ This version includes a **custom-designed PCB layout** created specifically for 
 - Recommended specs: 2-layer, 1.6mm thickness, HASL finish
 
 
----
 
 ## Advanced Customization Ideas
 
