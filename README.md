@@ -20,7 +20,7 @@ This version includes a **professionally routed PCB** that simplifies connection
 - Bluetooth-based control via smartphone  
 - Compact, easy-to-assemble PCB design  
 - Modular code structure for easy customization  
-- Supports Forward, Backward, Left, Right, and Stop commands  
+- Supports Forward, Backward, Left, Right, Stop and Lights & Horn commands  
 - Clean hardware layout ideal for robotics kits and classroom use
 
 
