@@ -4,7 +4,7 @@ This repository contains a fully customized Bluetooth-controlled car project des
 
 ## Project Overview
 
-Built on the Arduino UNO/Nano platform, this robotic car is controlled wirelessly via a Bluetooth module (HC-05/HC-06). The code interprets character commands from a mobile app and drives motors through an L298N motor driver.
+Built on the Arduino platform, this robotic car is controlled wirelessly via a Bluetooth module (HC-05/HC-06). The code interprets character commands from a mobile app and drives motors through an L298N motor driver.
 This version includes a **professionally routed PCB** that simplifies connections and improves long-term reliability — ideal for students, DIYers, and robotics enthusiasts.
 
 
@@ -13,7 +13,6 @@ This version includes a **professionally routed PCB** that simplifies connection
 - `Arduino_BT_Controlling_Car_PCB.ino` – Complete Arduino sketch for car control  
 - `Gerber_Arduino-Bluetooth-Controlling-Car-PCB.zip` – Custom PCB Gerber files designed by OS Daham
 
----
 
 ## Key Features
 
@@ -26,13 +25,13 @@ This version includes a **professionally routed PCB** that simplifies connection
 
 ## Hardware List
 
-| Component               | Description                         |
+| Component              | Description                        |
 |------------------------|-------------------------------------|
-| Arduino UNO / Nano     | Microcontroller board               |
+| Arduino Nano           | Microcontroller board               |
 | HC-05 / HC-06          | Bluetooth module                    |
-| L298N Motor Driver     | Dual H-Bridge controller            |
+| L298N Motor IC         | H-Bridge IC                         |
 | DC Motors (2 or 4)     | With compatible chassis             |
-| Custom PCB             | Designed by OS Daham (Gerber file) |
+| Custom PCB             | Custom Designed PCB (Gerber file)   |
 | Power Source           | 18650 cells / 9V adapter            |
 
 
@@ -71,6 +70,7 @@ This version includes a **custom-designed PCB layout** created specifically for 
   - [Seeed Fusion](https://www.seeedstudio.com/fusion.html)
 - Recommended specs: 2-layer, 1.6mm thickness, HASL finish
 
+
 ---
 
 ## Advanced Customization Ideas
@@ -92,7 +92,7 @@ Use, modify, or share it freely for educational or non-commercial purposes.
 
 ## Author
 
-**Daham Sathmin**
+*Daham Sathmin*
 
 Content in Sinhala and English:  
 Arduino | Robotics | IoT | PCB Design | Programming
